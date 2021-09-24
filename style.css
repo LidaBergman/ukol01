@@ -1,20 +1,25 @@
 body {
   color: #252525;
   background-color: #fff1e6;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 20px;
   line-height: 1.5;
   margin: 0;
 }
 
-h1, h2, h3, a {
+h1,
+h2,
+h3,
+a {
   color: #428083;
   text-decoration: none;
   font-weight: bold;
 }
 
-h1, h2, h3 {
-  font-style: italic; 
+h1,
+h2,
+h3 {
+  font-style: italic;
 }
 
 h1 {
@@ -44,18 +49,23 @@ a {
   padding: 50px 30px;
 }
 
-.menu{
+.menu {
   padding: 0;
   margin: 0%;
   text-align: center;
-  background-color: #252525;}
+  background-color: #252525;
+}
 
-.omne, .zajmy, .galerie {
+.omne,
+.zajmy,
+.galerie {
   background-color: #fff2e7;
   text-decoration: none;
 }
 
-.prace, .nej, .kontakt{
+.prace,
+.nej,
+.kontakt {
   background-color: #ffe4cc;
   text-decoration: none;
 }
@@ -78,7 +88,7 @@ a {
 }
 
 .other img {
-  width: 32%
+  width: 32%;
 }
 
 section {
@@ -98,9 +108,9 @@ section {
   background-color: #428083;
 }
 
-.pleteni{
-width: 50%;
-border-radius: 5%;
+.pleteni {
+  width: 50%;
+  border-radius: 5%;
 }
 
 .menu a {
